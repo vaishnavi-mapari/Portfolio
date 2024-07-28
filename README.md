@@ -26,7 +26,7 @@ This portfolio is a demonstration of my web development skills, created using si
 
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 
-- **Email**: vmapari678.com
+- **Email**: vmapari678@gmail.com
 - **GitHub**: https://github.com/vaishnavi-mapari
 
 ## License
